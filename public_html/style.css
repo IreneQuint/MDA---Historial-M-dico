@@ -68,6 +68,13 @@ button{
     width: 99%;
 }
 
+.footer-medico{
+    height: 113px;
+    background-color: #0065b0;
+    width: 99%;
+}
+
+
 .footer-ul{
     padding-top: 30px;
     text-align: center;    
